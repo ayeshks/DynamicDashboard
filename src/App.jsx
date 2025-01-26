@@ -108,7 +108,7 @@ const App = () => {
               </button>
               <button
                 onClick={handleClearWidgets}
-                className="flex p-1 px-2 bg-red-500 text-white rounded-lg hover:bg-red-600 justify-items-center"
+                className="flex p-1 px-2 bg-red-500 text-white rounded-lg hover:bg-red-600 justify items-center"
               >
                 <i className="pi pi-eraser text-white text-md"></i>
                 <span className="text-md ml-2 sm:block hidden">
